@@ -1,0 +1,16 @@
+{
+  "name": "adventcode",
+  "version": "1.0.0",
+  "description": "advent code pz",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "pierrez@bam.tech",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.2.4",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3"
+  }
+}
